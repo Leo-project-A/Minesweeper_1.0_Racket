@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The Popular game of Backgammon, built with Scheme programming language  
+The Popular game of Minesweeoer, built with Scheme programming language  
 simple text based CLI game
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
